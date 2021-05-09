@@ -8,6 +8,3 @@ creating a logistic regression model from scratch using numpy and python
 
 # opencv basics
 practicing opencv basics like flipping,reshaping, using mouse.
-
-# color detection
-created a color detection model using opencv
